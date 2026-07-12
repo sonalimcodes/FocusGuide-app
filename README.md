@@ -13,4 +13,40 @@ FocusGuide is a productivity app that blocks selected apps for a user-defined ti
 - Java
 - XML
 - SharedPreferences
+
+## 📸 Screenshots
+
+### Login Screen
+![Login](FocusGuide_AdvancedFull/screenshots/login.jpeg)
+
+### Sign Up Screen
+![Sign Up](FocusGuide_AdvancedFull/screenshots/signup.jpeg)
+
+### Home Screen
+![Home](FocusGuide_AdvancedFull/screenshots/homepage.jpeg)
+
+### Focus Mode
+![Focus Mode](FocusGuide_AdvancedFull/screenshots/focus-mode.jpeg)
+
+### Challenge Screen
+![Challenge](FocusGuide_AdvancedFull/screenshots/challenge.jpeg)
+
+### Parent Alert
+![Parent Alert](FocusGuide_AdvancedFull/screenshots/parent-alert.jpeg)
+
+## 🚀 Future Enhancements
+
+- Multiple challenge types
+- Weekly focus statistics
+- Focus streak tracking
+- Dark mode
+- Cloud backup
+- Custom challenge creation
+
+## 👩‍💻 Developer
+
+**Sonali M**
+
+GitHub: https://github.com/sonalimcodes  
+  
   
